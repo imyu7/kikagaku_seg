@@ -1,1 +1,3 @@
 examples/leapmanlab
+src/wandb
+src/lightning_logs/
